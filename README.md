@@ -1,8 +1,8 @@
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=Captivating%20User%20Experience%20;Correct%20Logic%20and%20high%20Creativety;High%20Coding%20level%20and%20Clean%20Code&font=Lobster&center=true&width=650&height=120&color=0194DD&vCenter=true&size=36"></p>
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=Captivating%20User%20Experience%20;Correct%20Logic%20and%20high%20Creativety;High%20Coding%20level%20and%20Clean%20Code&font=Saira&center=true&width=650&height=120&color=00308F&vCenter=true&size=36"></p>
 
 <h1 align="center">Hi 👋, I'm Vinayak Babbar</h1>
 <h3 align="center">A passionate Frontend Developer from India</h3>
-<img align="right" alt="Coding" width="300" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" />
+<img align="right" alt="Coding" width="350" src="https://camo.githubusercontent.com/40165a147c3dcea0fa1db780bb533fc5f98546ccfb9d5d05ddb2f429277f5348/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966" />
 
 
 
