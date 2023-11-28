@@ -30,7 +30,7 @@
 - Elegant and responsive web developments<br>
 - Strong foundation in <b>HTML, CSS, JavaScript and React Js</b><br>
 - Captivating visions to life on the digital canvas<br>
-<div>
+</div>
 <div width="50%">
   
 🎨 Creative Edge<br>  
