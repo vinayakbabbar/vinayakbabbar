@@ -22,7 +22,6 @@
  
 
 ## 👨‍💻  About me:
-
   
 🚀 **Innovative Frontend Developer**<br>
 - Passionate about crafting engaging user experiences<br>
@@ -30,19 +29,16 @@
 - Strong foundation in <b>HTML, CSS, JavaScript and React Js</b><br>
 - Captivating visions to life on the digital canvas<br>
 
-  
 🎨 **Creative Edge**<br>  
 - Detail-oriented problem solver<br>
 - Thrive in collaborative environments<br>
 - Effective communication<br>
 - Dynamic, user-centric interfaces<br>
 
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vinayakbabbar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinayakbabbar" height="30" width="40" /></a>
 </p>
-
 
 <h2>⚡ SKILL SET</h2>
 
