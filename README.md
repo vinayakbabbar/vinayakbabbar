@@ -1,7 +1,7 @@
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=Captivating%20User%20Experience%20;Correct%20Logic%20and%20high%20Creativety;High%20Coding%20level%20and%20Clean%20Code&font=Lobster&center=true&width=650&height=120&color=0194DD&vCenter=true&size=36"></p>
 
 <h1 align="center">Hi 👋, I'm Vinayak Babbar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Frontend Developer from India</h3>
 
  🤔 I’m looking for job in **Frontend Development**
 
