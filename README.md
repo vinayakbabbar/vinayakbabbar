@@ -3,30 +3,30 @@
 <h1 align="center">Hi 👋, I'm Vinayak Babbar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🤔 I’m looking for job in **Frontend Development**
+ 🤔 I’m looking for job in **Frontend Development**
 
-- 💬 Ask me about **Javascript, React**
+ 💬 Ask me about **Javascript, React**
 
-- 🔭 I’m currently working on **E-Commerce Platform**
+ 🔭 I’m currently working on **E-Commerce Platform**
 
-- 🌱 I’m currently learning **React**
+ 🌱 I’m currently learning **React**
 
-- 👯 I’m looking to collaborate on **Frontend Development**
+ 👯 I’m looking to collaborate on **Frontend Development**
 
-- 📫 How to reach me **babbarvinayak7@gmail.com**
+ 📫 How to reach me **babbarvinayak7@gmail.com**
 
 ## 👨‍💻  About me:
 🚀 Innovative Frontend Developer<br>
- Passionate about crafting engaging user experiences<br>
- Elegant and responsive web developments<br>
- Strong foundation in <b>HTML, CSS, JavaScript and React Js</b><br>
- Captivating visions to life on the digital canvas<br>
+- Passionate about crafting engaging user experiences<br>
+- Elegant and responsive web developments<br>
+- Strong foundation in <b>HTML, CSS, JavaScript and React Js</b><br>
+- Captivating visions to life on the digital canvas<br>
 
 🎨 Creative Edge<br>
- Detail-oriented problem solver<br>
- Thrive in collaborative environments<br>
- Effective communication<br>
- Dynamic, user-centric interfaces<br>
+- Detail-oriented problem solver<br>
+- Thrive in collaborative environments<br>
+- Effective communication<br>
+- Dynamic, user-centric interfaces<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -82,11 +82,12 @@
   </tr>
   
 </table>
-</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinayakbabbar&show_icons=true&locale=en&layout=compact" alt="vinayakbabbar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinayakbabbar&" alt="vinayakbabbar" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinayakbabbar&show_icons=true&locale=en&layout=compact" alt="vinayakbabbar" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinayakbabbar&" alt="vinayakbabbar" /></p>
+
+<p></p>
 
 <!--
 
