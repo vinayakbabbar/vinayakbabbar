@@ -22,21 +22,24 @@
  
 
 ## 👨‍💻  About me:
-<div style="display: flex;">
+<div style="display: flex;justify-content: space-between;">
+<div width="50%" >
+  
 🚀 Innovative Frontend Developer<br>
 - Passionate about crafting engaging user experiences<br>
 - Elegant and responsive web developments<br>
 - Strong foundation in <b>HTML, CSS, JavaScript and React Js</b><br>
 - Captivating visions to life on the digital canvas<br>
-
-
-🎨 Creative Edge<br>
+<div>
+<div width="50%">
+  
+🎨 Creative Edge<br>  
 - Detail-oriented problem solver<br>
 - Thrive in collaborative environments<br>
 - Effective communication<br>
 - Dynamic, user-centric interfaces<br>
- 
-  </div>
+</div>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
