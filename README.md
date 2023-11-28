@@ -1,4 +1,4 @@
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=Captivating%20User%20Experience%20;Correct%20Logic%20and%20high%20Creativety;High%20Coding%20level%20and%20Clean%20Code&font=Saira&center=true&width=650&height=120&color=00308F&vCenter=true&size=36"></p>
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=Captivating%20User%20Experience%20;Correct%20Logic%20and%20high%20Creativety;High%20Coding%20level%20and%20Clean%20Code&font=VT323&center=true&width=650&height=120&color=00308F&vCenter=true&size=36"></p>
 
 <h1 align="center">Hi 👋, I'm Vinayak Babbar</h1>
 <h3 align="center">A passionate Frontend Developer from India</h3>
