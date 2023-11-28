@@ -25,7 +25,7 @@
 <div style="display: flex;justify-content: space-between;">
 <div width="50%" >
   
-🚀 Innovative Frontend Developer<br>
+🚀 **Innovative Frontend Developer**<br>
 - Passionate about crafting engaging user experiences<br>
 - Elegant and responsive web developments<br>
 - Strong foundation in <b>HTML, CSS, JavaScript and React Js</b><br>
@@ -33,7 +33,7 @@
 </div>
 <div width="50%">
   
-🎨 Creative Edge<br>  
+🎨 **Creative Edge**<br>  
 - Detail-oriented problem solver<br>
 - Thrive in collaborative environments<br>
 - Effective communication<br>
