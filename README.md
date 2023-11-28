@@ -10,9 +10,22 @@
 - 📫 How to reach me **babbarvinayak7@gmail.com**
 
 ## 👨‍💻  About me:
-<p>
-I am senior <b>AI</b> & <b>Web Developer</b> for 7+ years with <b>Blockchain</b>.<br>
-I am focusing on <b>Self-motivated</b>, <b>action-oriented</b>, <b>Results-driven</b>, <b>Ability to deal with ambiguity and learn on the fly</b>, <b>Lifelong learning attitude and perseverance</b>, <b>Strong work ethic</b>, <b>Strong work ethic</b>, <b>Values</b>, <b>Integrity and Trust</b>.<br>
+🚀 Innovative Frontend Developer<br>
+ Passionate about crafting engaging user experiences<br>
+ Elegant and responsive web developments<br>
+ Strong foundation in HTML, CSS, JavaScript and React Js<br>
+ Captivating visions to life on the digital canvas<br>
+
+🎨 Creative Edge<br>
+ Detail-oriented problem solver<br>
+ Thrive in collaborative environments<br>
+ Effective communication<br>
+ Dynamic, user-centric interfaces<br>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/vinayakbabbar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinayakbabbar" height="30" width="40" /></a>
+</p>
 
 <h2>🥇 Main Skills:</h2>
 💧 FrontEnd: HTML, HTML5, CSS, CSS3, SASS, PHP, Laravel, Drupal, Tailwind CSS, JavaScript, jQuery, TypeScript, React, Angular, Vue.js, Redux, Next.js, styled-component, Bootstrap Material UI...<br/>
